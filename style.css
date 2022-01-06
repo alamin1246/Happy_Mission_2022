@@ -112,6 +112,11 @@ p {
   background-repeat: no-repeat;
   background-position: bottom right;
 }
+.corona-app-blog {
+  background-image: url(/images/shapes/shape-3.png);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
 .coronah1 {
   text-align: center;
 }
